@@ -107,6 +107,7 @@ input{
 .assets__body-content{
     margin-top: 70px;
     margin-bottom: 70px;
+    padding: 0 25px;
     position: relative;
 }
 
@@ -116,6 +117,7 @@ input{
     background-color: rgba(153, 153, 153, 0.507);
     position: absolute;
     top: -45px;
+    left: 0px;
     content: "";
 }
 
@@ -125,6 +127,7 @@ input{
     background-color: rgba(153, 153, 153, 0.507);
     position: absolute;
     bottom: -45px;
+    left: 0px;
     content: "";
 }
 
